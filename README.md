@@ -17,3 +17,6 @@ https://subtitle.api.fayas.me/?query=<your-query>
 ```
 
 ---
+
+#### (C) [FayasNoushad](https://github.com/FayasNoushad)
+#### All Rights Reserved
