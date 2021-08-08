@@ -15,3 +15,5 @@ A subtitle application user interface.
 ```
 https://subtitle.api.fayas.me/?query=<your-query>
 ```
+
+---
