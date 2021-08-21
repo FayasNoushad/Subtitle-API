@@ -12,8 +12,10 @@ A subtitle application user interface.
 
 ## Usage
 
+### For results
+
 ```
-https://subtitle.api.fayas.me/?query=<your-query>
+https://subtitle.api.fayas.me/results/?query=<your-query>
 ```
 
 ---
