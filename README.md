@@ -18,6 +18,12 @@ A subtitle application user interface.
 https://subtitle.api.fayas.me/results/?query=<your-query>
 ```
 
+### For specific result
+
+```
+https://subtitle.api.fayas.me/result/?query=<your-keyword>
+```
+
 ---
 
 #### (C) [FayasNoushad](https://github.com/FayasNoushad)
