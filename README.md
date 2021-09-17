@@ -13,6 +13,17 @@ License -> https://github.com/FayasNoushad/Subtitle-API/blob/main/LICENSE
 
 ---
 
+## Deploy
+
+```sh
+git clone https://github.com/FayasNoushad/Subtitle-API/tree/main
+cd Subtitle-API
+pip3 install -r requirements.txt
+python3 app.py
+```
+
+---
+
 ## Usage
 
 ### For results
