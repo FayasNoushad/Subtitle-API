@@ -23,6 +23,14 @@ def subtitle_results():
         return jsonify(dict_result)
 
 
+@app.route("/result/", methods=['GET'])
+def subtitle_result():
+    query = request.args.get('query')
+    dict_result = result(query)
+    if results is not None:
+        return jsonify(dict_result)
+
+
 if __name__ == '__main__':
     app.debug = True
     app.run(host="0.0.0.0", port=5000, use_reloader=True, threaded=True)
