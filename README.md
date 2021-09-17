@@ -8,7 +8,7 @@ A subtitle application user interface ( API )
 Made with Python3
 (C) @FayasNoushad
 Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Country-Info-API/blob/main/LICENSE
+License -> https://github.com/FayasNoushad/Subtitle-API/blob/main/LICENSE
 ```
 
 ---
