@@ -7,7 +7,7 @@
 from flask import Flask, redirect, render_template, request, jsonify, json
 
 
-app = Flask(__name__, template_folder)
+app = Flask(__name__, template_folder="public")
 
 
 @app.route("/")
