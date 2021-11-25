@@ -1,3 +1,4 @@
+from subtitle import results, result
 from flask import Flask, redirect, render_template, request, jsonify, json
 
 
