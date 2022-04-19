@@ -8,6 +8,5 @@ A subtitle search api
 
 ## Credits
 
-| [![](https://github.com/FayasNoushad.png?size=100)](https://github.com/FayasNoushad) | [![](https://github.com/TitanRebel.png?size=100)](https://github.com/TitanRebel) |
-| --- | --- |
-| [Fayas Noushad](https://github.com/FayasNoushad) | [Anand](https://github.com/TitanRebel) |
+- [Fayas Noushad](https://github.com/FayasNoushad)
+- [Anand PS](https://github.com/anandpskerala)
